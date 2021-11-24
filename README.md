@@ -1,6 +1,12 @@
 # hexo-theme-snark
+<<<<<<< HEAD
 
 #An hexo theme with lofter style, it's very simple and cool!
+
+#
+#
+An hexo theme with lofter style, it's very simple and cool!
+>>>>>>> 6d558a8210aeb9f73d0c19b6376534555913ee4a
 
 ## Features
 
