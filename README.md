@@ -1,5 +1,6 @@
 # hexo-theme-snark
-
+#
+#
 An hexo theme with lofter style, it's very simple and cool!
 
 ## Features
